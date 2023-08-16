@@ -1,4 +1,4 @@
-# Coffee-Production-Analysis
+# Coffee Production Analysis: Brazil's Dominance and Global Trends
 
 In this project, I worked with a dataset from a CSV file containing information about coffee production. After importing the data, I focused on cleaning it to ensure accuracy. Then, I conducted various statistical analyses to uncover insights into coffee production trends across different countries from 1990 to 2018. 
 
